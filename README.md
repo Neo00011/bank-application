@@ -20,11 +20,4 @@ Hesap Geçmişi (İşlem Dökümü): Tüm finansal işlemlerin detaylı döküm�
 Kullanılan Teknolojiler
 Bu uygulama aşağıdaki teknolojilerle geliştirilmiştir:
 
-Programlama Dili: [Python veya kullandığın dil]
-
-Veri Depolama: [Örneğin, metin dosyası, SQLite, veya basit bir veritabanı adı]
-
-Kurulum ve Çalıştırma
-[Buraya, projenin nasıl kurulacağını ve çalıştırılacağını adım adım eklemelisin. Örneğin: git clone [repo_link], pip install -r requirements.txt (varsa), ve python main.py gibi komutlar.]
-
-Ek İpuçları
+Programlama Dili: Python
